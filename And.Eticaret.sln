@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "And.Eticaret.UI.WEB", "And.Eticaret.UI.WEB\And.Eticaret.UI.WEB.csproj", "{4EF3C511-A192-4C40-AE41-57C4E0237D1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "And.Eticaret.Core.Model", "And.Eticaret.Core.Model\And.Eticaret.Core.Model.csproj", "{535719EE-299A-4668-8E11-4F55D961E3B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EF3C511-A192-4C40-AE41-57C4E0237D1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF3C511-A192-4C40-AE41-57C4E0237D1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF3C511-A192-4C40-AE41-57C4E0237D1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF3C511-A192-4C40-AE41-57C4E0237D1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{535719EE-299A-4668-8E11-4F55D961E3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535719EE-299A-4668-8E11-4F55D961E3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535719EE-299A-4668-8E11-4F55D961E3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535719EE-299A-4668-8E11-4F55D961E3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {132B99F5-327A-400E-9E0B-9E357CEC098B}
+	EndGlobalSection
+EndGlobal
